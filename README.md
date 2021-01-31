@@ -1,2 +1,2 @@
-# udemy-modernjs-todo-js
+# udemy-modernjs
 Created with CodeSandbox
